@@ -1,4 +1,4 @@
 Cython>=0.23
 sphinx==1.4.4
 sphinx-autobuild
-http://github.com/kivy/kivy/zipball/master
+-r kivy.txt
